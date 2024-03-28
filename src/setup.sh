@@ -1,3 +1,3 @@
-git config --global add safe.directory /unified-linux
+git config --global --add safe.directory /unified-linux
 
-sudo chmod +x ./setup.sh && sudo ./setup.sh
+sudo chmod +x ./on_init.sh && sudo ./on_init.sh
