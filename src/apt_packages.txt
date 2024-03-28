@@ -1,0 +1,11 @@
+gcc
+build-essential
+git
+zlib1g-dev
+libssl-dev
+john
+openssl
+terminator
+nodejs
+npm
+
